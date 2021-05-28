@@ -1,2 +1,2 @@
-# Aprender_Git
-Son solo pruebas para aprender como se usa git
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
